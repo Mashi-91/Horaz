@@ -4,48 +4,41 @@ Horaz is a feature-rich Flutter chat application designed to streamline your com
 
 ## Features
 
-### 1. Real-time Messaging
-- Stay connected with instant messaging that delivers messages in real-time.
+- **Real-time Messaging:** Stay connected with instant messaging that delivers messages in real-time.
+- **Multimedia Sharing:** Share photos, videos, documents, and more with ease.
+- **Group Chats:** Create group chats to communicate with multiple contacts simultaneously.
+- **Voice and Video Calls:** Initiate voice and video calls to connect face-to-face or simply have a conversation.
+- **Message Encryption:** Ensure privacy and security with end-to-end message encryption.
+- **Customization Options:** Personalize your chat experience with customizable themes, fonts, and more.
 
-### 2. Multimedia Sharing
-- Share photos, videos, documents, and more with ease.
+## Preview
 
-### 3. Group Chats
-- Create group chats to communicate with multiple contacts simultaneously.
+<div align="center">
+  <img src="screenshots/real_time_messaging.png" alt="Real-time Messaging" width="400" height="auto"/>
+  <img src="screenshots/multimedia_sharing.png" alt="Multimedia Sharing" width="400" height="auto"/>
+</div>
 
-### 4. Voice and Video Calls
-- Initiate voice and video calls to connect face-to-face or simply have a conversation.
+- **Real-time Messaging:** Stay connected with instant messaging that delivers messages in real-time.
+- **Multimedia Sharing:** Share photos, videos, documents, and more with ease.
 
-### 5. Message Encryption
-- Ensure privacy and security with end-to-end message encryption.
+<div align="center">
+  <img src="screenshots/group_chats.png" alt="Group Chats" width="400" height="auto"/>
+  <img src="screenshots/voice_video_calls.png" alt="Voice and Video Calls" width="400" height="auto"/>
+</div>
 
-### 6. Customization Options
-- Personalize your chat experience with customizable themes, fonts, and more.
+- **Group Chats:** Create group chats to communicate with multiple contacts simultaneously.
+- **Voice and Video Calls:** Initiate voice and video calls to connect face-to-face or simply have a conversation.
 
-## Screenshots
+<div align="center">
+  <img src="screenshots/message_encryption.png" alt="Message Encryption" width="400" height="auto"/>
+  <img src="screenshots/customization_options.png" alt="Customization Options" width="400" height="auto"/>
+</div>
 
-### 1. Real-time Messaging
-![Real-time Messaging](screenshots/real_time_messaging.png)
-
-### 2. Multimedia Sharing
-![Multimedia Sharing](screenshots/multimedia_sharing.png)
-
-### 3. Group Chats
-![Group Chats](screenshots/group_chats.png)
-
-### 4. Voice and Video Calls
-![Voice and Video Calls](screenshots/voice_video_calls.png)
-
-### 5. Message Encryption
-![Message Encryption](screenshots/message_encryption.png)
-
-### 6. Customization Options
-![Customization Options](screenshots/customization_options.png)
+- **Message Encryption:** Ensure privacy and security with end-to-end message encryption.
+- **Customization Options:** Personalize your chat experience with customizable themes, fonts, and more.
 
 ## Demo Video
 
 Watch the demo video to see Horaz in action:
 
 [Horaz Demo Video](https://example.com)
-
----
