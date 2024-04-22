@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>992417597540-fb28qtedatjr0ir77364f3lsksn6ksbs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.992417597540-fb28qtedatjr0ir77364f3lsksn6ksbs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>992417597540-00k0kehkheio6chs50iav2b1eifndj3t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4dKD4IgmTJ66ALB2GO9URyXlwAGTfj-k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>992417597540</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.horaz</string>
+	<key>PROJECT_ID</key>
+	<string>horaz-f4102</string>
+	<key>STORAGE_BUCKET</key>
+	<string>horaz-f4102.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:992417597540:ios:bda782f5a10213ada7b771</string>
+</dict>
+</plist>

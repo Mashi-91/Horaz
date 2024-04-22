@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Camera usage description -->
+    <key>NSCameraUsageDescription</key>
+    <string>Your own description</string>
+
+    <!-- Microphone usage description -->
+    <key>NSMicrophoneUsageDescription</key>
+    <string>To enable microphone access when recording video</string>
+
+    <!-- Location usage description -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>To enable GPS location access for Exif data</string>
+
+    <!-- Photo library usage description -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Privacy - Photo Library Usage Description</string>
+
+    <!-- Motion usage description -->
+    <key>NSMotionUsageDescription</key>
+    <string>Motion usage description</string>
+
+    <!-- Photo library add usage description -->
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>NSPhotoLibraryAddUsageDescription</string>
+
+    <!-- Development region -->
+    <key>CFBundleDevelopmentRegion</key>
+    <string>$(DEVELOPMENT_LANGUAGE)</string>
+
+    <!-- Contacts usage description -->
+    <key>NSContactsUsageDescription</key>
+    <string>This app requires contacts access to function properly.</string>
+
+    <!-- Display name -->
+    <key>CFBundleDisplayName</key>
+    <string>Horaz</string>
+
+    <!-- Executable -->
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+
+    <!-- Bundle identifier -->
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+
+    <!-- Bundle info dictionary version -->
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+
+    <!-- Bundle name -->
+    <key>CFBundleName</key>
+    <string>horaz</string>
+
+    <!-- Bundle package type -->
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+
+    <!-- Bundle short version string -->
+    <key>CFBundleShortVersionString</key>
+    <string>$(FLUTTER_BUILD_NAME)</string>
+
+    <!-- Bundle signature -->
+    <key>CFBundleSignature</key>
+    <string>????</string>
+
+    <!-- Bundle version -->
+    <key>CFBundleVersion</key>
+    <string>$(FLUTTER_BUILD_NUMBER)</string>
+
+    <!-- Requires iPhone OS -->
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+
+    <!-- Launch storyboard name -->
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+
+    <!-- Main storyboard file -->
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+
+    <!-- Supported interface orientations -->
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+
+    <!-- Supported interface orientations for iPad -->
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationPortraitUpsideDown</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+
+    <!-- Disable minimum frame duration on phone -->
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
+
+    <!-- Supports indirect input events -->
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
+
+    <!-- Status bar hidden -->
+    <key>UIStatusBarHidden</key>
+    <false/>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+/lib/config/ApiKeys.dart
+/lib/firebase_options.dart
+# Project exclude paths
+/.dart_tool/
+/build/

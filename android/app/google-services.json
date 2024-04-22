@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "992417597540",
+    "project_id": "horaz-f4102",
+    "storage_bucket": "horaz-f4102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992417597540:android:40c39b199edb27eea7b771",
+        "android_client_info": {
+          "package_name": "com.example.horaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992417597540-00k0kehkheio6chs50iav2b1eifndj3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.horaz",
+            "certificate_hash": "a960799848fb4a3e1cf93124584b02502aa38349"
+          }
+        },
+        {
+          "client_id": "992417597540-ec4dme7bo3je4l4ai4nh8scnl78othkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldwY3Tt8Ltjh0KBSr6t78QxF8vg7f0w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992417597540-ec4dme7bo3je4l4ai4nh8scnl78othkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992417597540-fb28qtedatjr0ir77364f3lsksn6ksbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.horaz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
