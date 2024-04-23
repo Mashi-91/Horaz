@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="assets/app-logo.png" alt="Horaz App Icon" width="150" height="150"/>
+</div>
+
+
 # Horaz: A Chat App
 
 Horaz is a feature-rich Flutter chat application designed to streamline your communication experience. With its intuitive user interface and comprehensive set of features, Horaz simplifies messaging, making it easier than ever to connect with friends, family, and colleagues.
