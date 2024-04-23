@@ -31,6 +31,7 @@ Horaz is a feature-rich Flutter chat application designed to streamline your com
    <p>Create group chats to communicate with multiple contacts simultaneously.</p>
     
    <img src="screenshots/Create-Group-Screen.jpg" alt="Create Group Screen" width="100" style="margin-right: 10px; margin-bottom: 10px; float: right;">
+   <img src="screenshots/Create-Group-Screen-2.jpg" alt="Create Group Screen-2" width="100" style="margin-right: 10px; margin-bottom: 10px; float: right;">
 
    <h3>Drawer Screen</h3>
    <p>Access additional features and settings from the drawer menu.</p>
