@@ -84,4 +84,4 @@ Horaz is a feature-rich Flutter chat application designed to streamline your com
 
 Watch the walkthrough video to see Horaz in action:
 
-[Horaz Demo Video](https://example.com)
+[Horaz Walkthrough Video](https://drive.google.com/file/d/1wCgua9ZdbeNzUQUGwQrCfpoZUvyuf5Q4/view?usp=sharing)
