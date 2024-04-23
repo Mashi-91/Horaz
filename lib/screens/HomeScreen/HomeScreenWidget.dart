@@ -360,6 +360,7 @@ class HomeScreenWidget {
   static Widget buildHomeDrawer() {
     final controller = Get.find<HomeController>();
     final metadata = globalMetaData;
+    dev.log(metadata.toString());
     return Padding(
       padding: const EdgeInsets.only(left: 30, top: 50),
       child: Column(
@@ -380,7 +381,7 @@ class HomeScreenWidget {
           const SizedBox(height: 10),
           CommonWidget.buildCustomText(
             text:
-                AuthService.currentUser?.displayName ?? metadata?['firstName'],
+                AuthService.currentUser?.displayName ?? '',
             textStyle: TextStyle(
               fontWeight: FontWeight.w700,
               color: AppColors.whiteColor,
